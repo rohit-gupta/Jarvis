@@ -30,4 +30,4 @@ id_to_channel['UCw7TdYd1d873DtdjkdKStUg'] = "White Yak Trailer"
 
 id_to_channel['UCDoLDRl0RbBWPIwR2xjjneg'] = "Video Detective"
 
-ids = id_to_channel.keys()
+approved_channel_ids = id_to_channel.keys()
