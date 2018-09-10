@@ -23,8 +23,8 @@ id_to_channel['UCuaFvcY4MhZY3U43mMt1dYQ'] = "Disney Movie Trailers"
 id_to_channel['UCJ6nMHaJPZvsJ-HmUmj1SeA'] = "Lionsgate Movies"
 
 
-id_to_channel['UCi8e0iOVk1fEOogdfu4YgfA'] = "Movie Clips Trailers"
-id_to_channel['UCTCjFFoX1un-j7ni4B6HJ3Q'] = "Movieclips Trailer Vault"
+id_to_channel['UCi8e0iOVk1fEOogdfu4YgfA'] = "Movieclips Trailers"
+id_to_channel['UCTCjFFoX1un-j7ni4B6HJ3Q'] = "Movieclips Classic Trailers"
 
 id_to_channel['UCw7TdYd1d873DtdjkdKStUg'] = "White Yak Trailer"
 
