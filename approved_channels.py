@@ -19,6 +19,7 @@ id_to_channel['UCZGYJFUizSax-yElQaFDp5Q'] = "Star Wars"
 id_to_channel['UC_IRYSp4auq7hKLvziWVH6w'] = "Disney-Pixar"
 id_to_channel['UCV3uIARCxZY6lWbeVVRZsKg'] = "DisneyMoviesOnDemand"
 id_to_channel['UCuaFvcY4MhZY3U43mMt1dYQ'] = "Disney Movie Trailers"
+id_to_channel['UC_976xMxPgzIa290Hqtk-9g'] = "Walt Disney Animation Studios"
 
 id_to_channel['UCJ6nMHaJPZvsJ-HmUmj1SeA'] = "Lionsgate Movies"
 
