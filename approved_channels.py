@@ -31,4 +31,6 @@ id_to_channel['UCw7TdYd1d873DtdjkdKStUg'] = "White Yak Trailer"
 
 id_to_channel['UCDoLDRl0RbBWPIwR2xjjneg'] = "Video Detective"
 
+id_to_channel['UCpJN7kiUkDrH11p0GQhLyFw'] = "Movie Trailers Source"
+
 approved_channel_ids = id_to_channel.keys()
