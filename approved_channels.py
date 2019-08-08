@@ -1,5 +1,7 @@
 id_to_channel = {}
 
+
+# Official Studio Channels
 id_to_channel['UC2-BeLxzUBSs0uSrmzWhJuQ'] = "20th Century Fox"
 id_to_channel['UCor9rW6PgxSQ9vUPWQdnaYQ'] = "FoxSearchlight"
 
@@ -23,7 +25,9 @@ id_to_channel['UC_976xMxPgzIa290Hqtk-9g'] = "Walt Disney Animation Studios"
 
 id_to_channel['UCJ6nMHaJPZvsJ-HmUmj1SeA'] = "Lionsgate Movies"
 
+id_to_channel['UCY26xU0-avwTJ6F6TzUZVEw'] = "DreamWorksTV"
 
+# Third party channels
 id_to_channel['UCi8e0iOVk1fEOogdfu4YgfA'] = "Movieclips Trailers"
 id_to_channel['UCTCjFFoX1un-j7ni4B6HJ3Q'] = "Movieclips Classic Trailers"
 
@@ -32,5 +36,12 @@ id_to_channel['UCw7TdYd1d873DtdjkdKStUg'] = "White Yak Trailer"
 id_to_channel['UCDoLDRl0RbBWPIwR2xjjneg'] = "Video Detective"
 
 id_to_channel['UCpJN7kiUkDrH11p0GQhLyFw'] = "Movie Trailers Source"
+
+id_to_channel['UCj4lFy4F5PqXD7d41mCKVYw'] = "MovieAccessTrailers"
+
+id_to_channel['UCpo2fJvnalYlwN97ehhyfBQ'] = "hollywoodstreams"
+
+id_to_channel['UCT0hbLDa-unWsnZ6Rjzkfug'] = "FilmSelect Trailer"
+
 
 approved_channel_ids = id_to_channel.keys()
